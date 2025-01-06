@@ -14,4 +14,3 @@
 - Get the machine address: ```ifconfig```
 - URL for cloning: https://www.linkedin.com/login/pt
 # Results:
-https://github.com/Spynishy/Dio-Phishing-Challenge/blob/main/Credential-login1
