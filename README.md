@@ -14,6 +14,6 @@
 - Get the machine address: ```ifconfig```
 - URL for cloning: https://www.linkedin.com/login/pt
 # Results:
-Loging: ![image](https://github.com/user-attachments/assets/3e6afce2-e950-40fc-bab7-5ffb5e83fb5c)
-Password: ![image](https://github.com/user-attachments/assets/c23def13-f376-4262-9d15-0d6aacf9d235)
+   ### Log: ![image](https://github.com/user-attachments/assets/3e6afce2-e950-40fc-bab7-5ffb5e83fb5c) 
 
+   ### Password: ![image](https://github.com/user-attachments/assets/c23def13-f376-4262-9d15-0d6aacf9d235)
