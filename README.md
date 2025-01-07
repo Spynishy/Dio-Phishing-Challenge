@@ -6,7 +6,7 @@
 
 ## Preparing phishing with kali linux:
 - Access root mode: ```sudo su```
-- Loading setoolkit: ```setoolkit```
+- Open the setoolkit: ```setoolkit```
 - Select the method in attack: ```Social-Engineering Attacks.``` Click on the option--> (1)
 - Vector in the attack: ```Website Attack Vectors.``` Click on the option--> (2)
 - Method in the attack: ```Credential Harvester Attack Method.``` Click on the option--> (3)
